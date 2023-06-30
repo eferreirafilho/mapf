@@ -1,0 +1,46 @@
+map:
+    dimensions: [40, 40]
+    obstacles:
+    - !!python/tuple [21, 21]
+    - !!python/tuple [19, 21]
+    - !!python/tuple [21, 19]
+    - !!python/tuple [19, 19]
+    - !!python/tuple [18, 21]
+    - !!python/tuple [17, 21]
+    - !!python/tuple [21, 18]
+    - !!python/tuple [21, 17]
+    - !!python/tuple [21, 16]
+    - !!python/tuple [16, 21]
+    - !!python/tuple [22, 19]
+    - !!python/tuple [23, 19]
+    - !!python/tuple [19, 22]
+    - !!python/tuple [19, 23]
+    - !!python/tuple [19, 24]
+    - !!python/tuple [21, 21]
+    - !!python/tuple [22, 21]
+    - !!python/tuple [23, 21]
+    - !!python/tuple [24, 21]
+    - !!python/tuple [24, 19]
+    - !!python/tuple [21, 22]
+    - !!python/tuple [21, 23]
+    - !!python/tuple [21, 24]
+    - !!python/tuple [18, 19]
+    - !!python/tuple [17, 19]
+    - !!python/tuple [16, 19]
+    - !!python/tuple [19, 18]
+    - !!python/tuple [19, 17]
+    - !!python/tuple [19, 16]
+
+robots:
+-   goal: [18, 24]
+    name: robot0
+    start: [20, 24]
+-   goal: [26, 25]
+    name: robot1
+    start: [20, 16]
+-   goal: [18, 23]
+    name: robot2
+    start: [24, 20]
+-   goal: [26, 15]
+    name: robot3
+    start: [16, 20]

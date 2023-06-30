@@ -1,0 +1,19 @@
+cost: 4
+schedule:
+  robot0:
+  - t: 0
+    x: 20
+    y: 18
+  robot1:
+  - t: 0
+    x: 20
+    y: 22
+  robot2:
+  - t: 0
+    x: 18
+    y: 20
+  robot3:
+  - t: 0
+    x: 22
+    y: 20
+status: 1
